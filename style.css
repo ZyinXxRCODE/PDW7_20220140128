@@ -1,0 +1,50 @@
+/* Custom styles */
+
+body {
+    background-image: url('assets/');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+  }
+  
+  .jumbotron {
+    background-image: url('assets/Red heart.jpeg');
+    background-size: cover;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  }
+  
+  .navbar {
+    background-color: #d31528; /* warna merah */
+  }
+  
+  .navbar-brand,
+  .navbar-nav .nav-link {
+    color: white !important;
+  }
+  
+  .card {
+    margin-top: 20px;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  /* CSS for video */
+  .card {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .embed-responsive {
+    flex: 1;
+  }
+  
+  .card-body {
+    flex: 0 0 auto;
+  }
+  
