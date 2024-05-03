@@ -25,3 +25,6 @@ I study at Yogyakarta Muhammadiyah University
 😄 Pronouns...
 
 ⚡️ Fun fact...
+
+## announcement
+jika vidio tidak berjalan nyalakan atau aktifkan akses allow Audio and Vidio
